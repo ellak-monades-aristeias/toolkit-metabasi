@@ -8,4 +8,4 @@
 
 Τέλος, ο οδηγός αυτός, παρέχει μία [εφαρμογή σε spreadsheet](https://github.com/ellak-monades-aristeias/toolkit-metabasi/blob/master/Metabasi%20-%20spreadsheet.ods) για την περαιτέρω βοήθεια στο στάδιο του προγραμματισμού του εκάστοτε Φορέα ως προς το χρόνο και το κόστος (σε ανθρωποώρες) που θα απαιτηθούν για τη μετάπτωση.
 
-O πλήρης οδηγός σε επεξεργάσιμη μοτφή στο [github](https://github.com/ellak-monades-aristeias/toolkit-metabasi/blob/master/toolkit-metavasi.md) και σε [PDF](https://github.com/ellak-monades-aristeias/toolkit-metabasi/blob/master/ToolKit%20-%20%CE%9C%CE%B5%CF%84%CE%AC%CE%B2%CE%B1%CF%83%CE%B7%CF%82%20draft%2010.pdf).
+O πλήρης οδηγός σε επεξεργάσιμη μορφή στο [github](https://github.com/ellak-monades-aristeias/toolkit-metabasi/blob/master/toolkit-metavasi.md) και σε [PDF](https://github.com/ellak-monades-aristeias/toolkit-metabasi/blob/master/ToolKit%20-%20%CE%9C%CE%B5%CF%84%CE%AC%CE%B2%CE%B1%CF%83%CE%B7%CF%82%20draft%2010.pdf).
